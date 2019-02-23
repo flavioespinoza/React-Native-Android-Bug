@@ -6,7 +6,7 @@
 
 </header>
 
-- **github:***  <a  class='md-link' 
+- **github:**  <a  class='md-link' 
                     target='_blank'
                     href='https://github.com/facebook/react-native'>
                     react-native
@@ -28,7 +28,7 @@
 
 </div>
 
-Add the following to 
+> Add the following to 
     <a  class='md-link-bold' 
         target='_blank' 
         href='observations.html'>
@@ -70,7 +70,7 @@ Add the following to
 
 <div class='md-strategy'>
 
-**This could be fixed by separating the app-dev-server run-ios and run-android scripts**
+> First iteration
 
 </div>
 

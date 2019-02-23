@@ -31,6 +31,15 @@ html body .markdown-preview ul {
 html body .markdown-preview li.task-list-item {
   margin-left: 24px;
 }
+html body .markdown-preview blockquote {
+  padding: 0 10px;
+  border-left: 5px solid cornflowerblue;
+}
+html body .markdown-preview blockquote p {
+  background-color: #edf3ff;
+  padding: 4px 12px;
+  font-weight: 800px;
+}
 html body .md-header {
   padding-top: 6px;
   margin-bottom: 6px;
@@ -88,7 +97,7 @@ html body a.md-link-bold {
 </header>
 <ul>
 <li>
-<p><strong>github:</strong>*  <a class="md-link" target="_blank" href="https://github.com/facebook/react-native">
+<p><strong>github:</strong>  <a class="md-link" target="_blank" href="https://github.com/facebook/react-native">
 react-native
 </a></p>
 </li>
@@ -105,10 +114,12 @@ react-native
 <div class="md-label-header">
 <p><strong>Observations</strong></p>
 </div>
+<blockquote>
 <p>Add the following to
 <a class="md-link-bold" target="_blank" href="observations.html">
 Observations
 </a></p>
+</blockquote>
 <ul>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> Detailed observations on sequencing and the app-server_</li>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> Thoughts on how the iOS Xcode requirement on might be breaking or delaying the Android build_</li>
@@ -136,7 +147,9 @@ Xcode build sequence
 <p><strong>Trident strategy</strong></p>
 </div>
 <div class="md-strategy">
-<p><strong>This could be fixed by separating the app-dev-server run-ios and run-android scripts</strong></p>
+<blockquote>
+<p>First iteration</p>
+</blockquote>
 </div>
 <ul>
 <li class="task-list-item">
