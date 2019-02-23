@@ -57,8 +57,8 @@
         <a class='md-link-bold' target='_blank' href='https://developer.apple.com/videos/play/wwdc2018/415/'>
             Xcode build sequence
         </a>
-- [ ] Test **Trident** strategy outlined below
-- [ ] Asses **Trident** strategy and proceed based on resluts
+- [ ] Test **Trident strategy** outlined below
+- [ ] Asses **Trident strategy** and proceed based on resluts
 - [ ] _Add todo...continue..._
 
 
