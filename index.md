@@ -28,13 +28,16 @@
 
 </div>
 
-<div class='md-block-quote'>
+Add the following to 
+    <a  class='md-link-bold' 
+        target='_blank' 
+        href='observations.html'>
+        Observations
+    </a>
 
-1. _Observations on sequencing and the app-server_
-1. _Thoughts on how the iOS Xcode requirement on might be breaking or delaying the Android build_
-1. _Discovery of a workaround on the Android side and reasoning on how it might be solve_ 
-
-</div>
+- [ ] Detailed observations on sequencing and the app-server_
+- [ ] Thoughts on how the iOS Xcode requirement on might be breaking or delaying the Android build_
+- [ ] Detailed description scovery of a workaround on the Android side and reasoning on how it might be solve_ 
 
 <div class='md-label-header'>
 
