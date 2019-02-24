@@ -24,6 +24,12 @@
 
 <div class='md-label-header'>
 
+<header class='md-header'>
+
+### Approach
+
+</header>
+
 **Observations**
 
 </div>
@@ -34,14 +40,19 @@
         href='observations.html'>
         Observations
     </a>
+    ~ Then proceed to **Stategy** section below
+    
 
-- [ ] Detailed observations on sequencing and the app-server_
+- [ ] Detailed observations on sequencing and the app-server
+- [ ] Erorr logs and stack-traces from dev environment
+- [ ] Bug 🐞 reports on [react-native/issues](https://github.com/facebook/react-native/issues)
+- [ ] Bug 🐞 reports on [Stack Overflow](https://stackoverflow.com/search?q=macos+react-native+run-android+build+failure)
 - [ ] Thoughts on how the iOS Xcode requirement on might be breaking or delaying the Android build_
-- [ ] Detailed description scovery of a workaround on the Android side and reasoning on how it might be solve_ 
+- [ ] Detailed description of a workaround on the Android side and reasoning on how it might be solve_ 
 
 <div class='md-label-header'>
 
-**Approach**
+**Strategy**
 
 </div>
 
